@@ -92,7 +92,8 @@ El análisis reveló patrones estacionales claros, categorías y productos domin
 ## 🐍 Análisis en Python (Google Colab)
 
 Puedes revisar el análisis completo en el notebook  
-
+🔗 [Notebook en Colab] 
+(https://github.com/HiLuFlores/Proyecto_analista_datos/blob/main/Analisis_Ventas_Neptuno.ipynb)
 
 # 📊 Proyecto de Análisis de Ventas con Power BI y Python
 
@@ -120,4 +121,4 @@ el color depende en que cuadrante este y el tamaño del numero de pedidos.
 
 ## 📈 Dashboard en Power BI  
 
-🔗 [Ver Reporte en Power BI]
+🔗 [Ver Reporte en Power BI] (https://app.powerbi.com/groups/me/reports/54ce06c7-cf2f-4597-ad05-f9294efce5d4/9f756fbc172e5a02b7af?redirectedFromSignup=1&experience=power-bi)
